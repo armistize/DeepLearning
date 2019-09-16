@@ -12,11 +12,3 @@ K:C
 "C"G>A G E3|G>A G E2z|"G"d2 d B3|"C"c2 c G2z|
 "F"A2 A c>B A|"C"G>A G E2z|"F"A2 A c>B A|"C"G>A G E2z|
 "G7"d2 d f>d B|"C"c3 e2z|cGE "G7"G>F D|"C"C3-C3|]
-W:Silent night, holy night
-W:All is calm, all is bright
-W:Round yon Virgin Mother and Child
-W:Holy Infant so tender and mild
-W:Sleep in heavenly peace
-W:Sleep in heavenly peace
-W:
-W:(Josef Mohr, 1818, Trans by John Young, 1819)
