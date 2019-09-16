@@ -1,35 +1,22 @@
-X: 18
-T: London Bridge.
-T: (A Game Song.  For directions, see page 7.)
-%R: _
-B: "The Everyday Song Book", 1927
-F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
-Z: 2015 John Chambers <jc:trillian.mit.edu>
-M: C
-L: 1/4
-K: F
-% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-[|\
-[cA]>[dB] [cA][BG] | [AF][BG] [c-A-][cA] | [GE][AF] [B-G-][BG] | [AF][BG] [c-A-][cA] |
-w: 1.~Lon-don Bridge is fall-ing down,* fall-ing down,* fall-ing down,*
-w: Build it up with i-ron bars.* I-ron bars,* i-ron bars,*
-[cA]>[dB] [cA][BG] | [AF][BG] [c-A-][cA] | [G2E2] [c2E2] | [AF] [F2F2] z |]
-w: 1.~Lon-don Bridge is fall-ing down,* My Fair La-dy.
-w: Build it up with i-ron bars,* My Fair La-dy.
-%
-W:  3. Iron bars will rust away.
-W:  4. Build it up with pins and needles.
-W:  5. Pins and needles rust and bend.
-W:  6. Build it up with penny loaves.
-W:  7. Penny Loaves will tumble down.
-W:  8. Build it up with gold and silver.
-W:  9. Gold and silver I've not got.
+X:19004
+T:Silent Night
+T:Stille Nacht! Heilige Nacht!
+R:Air
+C:Franz Xaver Gruber, 1818
+O:Austria
+Z:Paul Hardy's Xmas Tunebook 2012 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:6/8
+L:1/8
+Q:3/8=60
+K:C
+"C"G>A G E3|G>A G E2z|"G"d2 d B3|"C"c2 c G2z|
+"F"A2 A c>B A|"C"G>A G E2z|"F"A2 A c>B A|"C"G>A G E2z|
+"G7"d2 d f>d B|"C"c3 e2z|cGE "G7"G>F D|"C"C3-C3|]
+W:Silent night, holy night
+W:All is calm, all is bright
+W:Round yon Virgin Mother and Child
+W:Holy Infant so tender and mild
+W:Sleep in heavenly peace
+W:Sleep in heavenly peace
 W:
-W: 10. Here's a prisoner I have got.
-W: 11. What's the prisoner done to you?
-W: 12. Stole my watch and broke my crown.
-W: 13. What'll you take to set him free?
-W: 14. One hundred pounds will set him free.
-W: 15. One hundred pounds we have not got.
-W: 16. Then off to prison you must go.
-% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+W:(Josef Mohr, 1818, Trans by John Young, 1819)
