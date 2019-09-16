@@ -1,0 +1,14 @@
+X:19004
+T:Silent Night
+T:Stille Nacht! Heilige Nacht!
+R:Air
+C:Franz Xaver Gruber, 1818
+O:Austria
+Z:Paul Hardy's Xmas Tunebook 2012 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:6/8
+L:1/8
+Q:3/8=60
+K:C
+"C"G>A G E3|G>A G E2z|"G"d2 d B3|"C"c2 c G2z|
+"F"A2 A c>B A|"C"G>A G E2z|"F"A2 A c>B A|"C"G>A G E2z|
+"G7"d2 d f>d B|"C"c3 e2z|cGE "G7"G>F D|"C"C3-C3|]
